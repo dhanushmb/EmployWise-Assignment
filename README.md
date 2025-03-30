@@ -39,6 +39,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Deployment
 
+- The application is deployed on Netlify and can be accessed at [https://divoo.netlify.app/](https://divoo.netlify.app/).
 - The application can be deployed on platforms like Netlify or Vercel. Ensure that you build the project before deploying.
 
 ### Assumptions and Considerations
